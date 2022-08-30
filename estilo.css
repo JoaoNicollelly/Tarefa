@@ -1,0 +1,26 @@
+body{
+	background: #000990;
+}
+
+#conteudo-esquerda{
+	width: 640px;
+	height: auto;
+	float: left;
+}
+
+#conteudo-centro{
+	width: 640px;
+	height: auto;
+	float: center;
+}
+
+#conteudo-direita{
+	width: 640px;
+	height: auto;
+	float: right;
+}
+
+.banner{
+	width: 640px;
+	height: 360px;
+}
